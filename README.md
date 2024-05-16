@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Anscombe</h1>
+  
   ![logoUPS](https://github.com/AnahiCb/Anscombe/assets/64875390/7b5d8cdd-a132-4ed3-8007-46d44f05b960)
   
   <h1>UNIVERSIDAD POLITÉCNICA SALESIANA</h2>
