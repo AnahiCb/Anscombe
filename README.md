@@ -1,7 +1,6 @@
 <div align="center">
-![Texto Alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQph5KTiQnpfFgABAh-hjKBeweBdyplZTSQzSd9aF9Tj10hGU0SFo3VCPnGvAt18k2LKQ&usqp=CAU)
-  
   <h1>Anscombe</h1>
+  ![logoUPS](https://github.com/AnahiCb/Anscombe/assets/64875390/d91e4d9f-30f7-4c98-a274-4142a19ff3ce)
   <h1>UNIVERSIDAD POLITÉCNICA SALESIANA</h2>
   <h2>NOMBRE:</h2>
   <h3>Anahí Cabrera</h3>
@@ -25,7 +24,7 @@ Características principales de Anscombe:
 
 El Cuarteto de Anscombe destaca la importancia de no depender únicamente de medidas resumidas como la media y la varianza, sino también de visualizar los datos para comprender mejor su estructura y comportamiento.
 
-
+![image](https://github.com/AnahiCb/Anscombe/assets/64875390/02cf3060-f2f9-43ed-9dc8-8acc5f7acbc4)
 
 ## Referencia
 @Alvy. (s. f.). El cuarteto de Ascombe muestra cómo datos con propiedades estadísticas iguales pueden ser bastante distintos. Microsiervos. https://www.microsiervos.com/archivo/matematicas/cuarteto-de-ascombe-datos-propiedades-estadisticas.html
