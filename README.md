@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Anscombe</h1>
-  ![logoUPS](https://github.com/AnahiCb/Anscombe/assets/64875390/d91e4d9f-30f7-4c98-a274-4142a19ff3ce)
+  ![logoUPS](https://github.com/AnahiCb/Anscombe/assets/64875390/d295018c-7495-4d22-a791-406656b82cf8)
+  
   <h1>UNIVERSIDAD POLITÉCNICA SALESIANA</h2>
   <h2>NOMBRE:</h2>
   <h3>Anahí Cabrera</h3>
